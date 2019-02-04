@@ -1,6 +1,10 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 .header__title {
     color: #25b6eb;
-    font-family: Comic Sans MS, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 46px;
     text-align: center;
     font-style: italic;
@@ -8,7 +12,6 @@
 
 .header__description {
     color: #006b3e;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 26px;
     text-align: center;
 }
@@ -21,7 +24,7 @@
 
 .ingredients__title {
     color: white;
-    font-family: Comic Sans MS, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 33px;
     text-align: center;
     font-weight: bold;
@@ -29,14 +32,13 @@
 
 .ingredients__list {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
 
 .main-content__title {
     margin-bottom: 0;
     color: #25b6eb;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 28px;
     font-weight: bold;
     text-transform: uppercase;
@@ -45,14 +47,13 @@
 .main-content__subtitle {
     margin-top: 0;
     color: #006b3e;
-    font-family: Comic Sans MS, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 28px;
     font-weight: bold;
 }
 
 .main-content__list {
     width: 21%;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
     font-weight: bold;
 }
