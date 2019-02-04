@@ -1,25 +1,25 @@
-h1 {
-    color: red;
+.header__title {
+    color: #25b6eb;
     font-family: Comic Sans MS, sans-serif;
     font-size: 46px;
     text-align: center;
     font-style: italic;
 }
 
-header > p {
+.header__description {
     color: #006b3e;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 26px;
     text-align: center;
 }
 
-aside {
+.ingredients {
     width: 25%;
     background-color: #a1513f;
     border-radius: 35px;
 }
 
-aside > h2 {
+.ingredients__title {
     color: white;
     font-family: Comic Sans MS, sans-serif;
     font-size: 33px;
@@ -27,13 +27,13 @@ aside > h2 {
     font-weight: bold;
 }
 
-ul {
+.ingredients__list {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
 
-article > h2 {
+.main-content__title {
     margin-bottom: 0;
     color: #25b6eb;
     font-family: Arial, Helvetica, sans-serif;
@@ -42,7 +42,7 @@ article > h2 {
     text-transform: uppercase;
 }
 
-article > h3 {
+.main-content__subtitle {
     margin-top: 0;
     color: #006b3e;
     font-family: Comic Sans MS, sans-serif;
@@ -50,7 +50,7 @@ article > h3 {
     font-weight: bold;
 }
 
-ol {
+.main-content__list {
     width: 21%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
