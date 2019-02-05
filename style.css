@@ -44,7 +44,7 @@ body {
     text-transform: uppercase;
 }
 
-a.main-content__subtitle {
+.main-content__subtitle {
     margin-top: 0;
     color: #006b3e;
     font-family: 'Open Sans', sans-serif;
